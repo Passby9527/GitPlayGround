@@ -8,7 +8,7 @@ def hello_3():
     return "good evening father fxxker"
 
 def hello_4():
-    return "no hello thx"
+    return "no hello thx a lot"
 
 result = hello_4()
 print(result)
