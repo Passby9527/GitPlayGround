@@ -4,5 +4,8 @@ def hello():
 def hello_2():
     return "good morning mother fxxker"
 
-result = hello_2()
+def hello_3():
+    return "good evening father fxxker"
+
+result = hello_3()
 print(result)
